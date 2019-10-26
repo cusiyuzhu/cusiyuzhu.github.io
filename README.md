@@ -1,6 +1,6 @@
 ## Siyu Zhu portfolio
 
-## Table of Contents
+## [Resume](./resume.md)
 
 1. [Professional Experience](#Professional-Experience)
 1. [Skills](#Skills)
