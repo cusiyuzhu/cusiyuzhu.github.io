@@ -1,6 +1,6 @@
-## Siyu Zhu portfolio
+## Siyu Zhu         [Resume](./resume.md) and  [CV](./CV.md)
 
-## [Resume](./resume.md)
+
 
 1. [Professional Experience](#Professional-Experience)
 1. [Skills](#Skills)
