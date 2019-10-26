@@ -1,9 +1,9 @@
 ## Siyu Zhu portfolio
 
 ## Table of Contents
-[Professional Experience](#Education Experience)
+[Professional Experience](#Professional Experience)
 [Skills](#Skills)
 
-### Education Experience
-### Resume
+### Professional Experience
+### Skills
 
