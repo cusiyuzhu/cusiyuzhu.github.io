@@ -1,9 +1,8 @@
-### cusiyuzhu.github.io
 ## Siyu Zhu portfolio
 
 ## Table of Contents
-[Education Experience](#Education Experience) </a>
-[Resume](#Resume)
+[Professional Experience](#Education Experience)
+[Skills](#Skills)
 
 ### Education Experience
 ### Resume
